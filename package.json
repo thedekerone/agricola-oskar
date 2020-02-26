@@ -1,0 +1,40 @@
+{
+	"name": "agricola-oskar",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"build": "next build",
+		"dev": "next",
+		"start": "next start"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@types/react": "^16.9.19",
+		"babel-plugin-styled-components": "1.10.6",
+		"next-optimized-images": "^2.5.4",
+		"standard": "14.3.1",
+		"typescript": "^3.7.5",
+		"webpack": "^4.41.6"
+	},
+	"dependencies": {
+		"dotenv": "^8.2.0",
+		"firebase": "7.7.0",
+		"isomorphic-fetch": "2.2.1",
+		"jimp": "0.9.3",
+		"lqip-loader": "2.2.0",
+		"next": "9.1.4",
+		"next-compose-plugins": "2.2.0",
+		"react": "16.11.0",
+		"react-dom": "16.11.0",
+		"react-ga": "^2.7.0",
+		"react-html-parser": "2.0.2",
+		"react-icons": "3.8.0",
+		"responsive-loader": "1.2.0",
+		"sharp": "0.24.0",
+		"styled-components": "4.4.1",
+		"webp-loader": "0.6.0"
+	}
+}
